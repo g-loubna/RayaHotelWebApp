@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.chambre-background {
+    background-image: url('../assets/Group 139.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
